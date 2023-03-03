@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FuturaLT-Bold.ttf",
+      "sha1": "69fe30403a72f8432b723d70677e02760af30fba"
+    },
+    {
+      "path": "src/assets/fonts/FuturaLT.ttf",
+      "sha1": "90cf3231e5a1ddde16a26e460199ffc5f3c5925a"
+    }
+  ]
+}
